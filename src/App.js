@@ -8,7 +8,7 @@ export default function App() {
       
       <Tilt className="box">
         <h2 className="name"> Product Name </h2>
-        <a href="#" className="buy">
+        <a href="/" className="buy">
           {" "}
           Buy Now{" "}
         </a>
@@ -16,6 +16,7 @@ export default function App() {
         <img
           src="http://pngimg.com/uploads/running_shoes/running_shoes_PNG5816.png"
           className="product"
+          alt="no se encontro"
         />
       </Tilt>
       
@@ -23,7 +24,7 @@ export default function App() {
       
       <Tilt className="box">
         <h2 className="name"> Product Name </h2>
-        <a href="#" className="buy">
+        <a href="/" className="buy">
           {" "}
           Buy Now{" "}
         </a>
@@ -31,13 +32,14 @@ export default function App() {
         <img
           src="http://pngimg.com/uploads/running_shoes/running_shoes_PNG5816.png"
           className="product"
+          alt="no se encontro"
         />
       </Tilt>
       
       
       <Tilt className="box">
         <h2 className="name"> Product Name </h2>
-        <a href="#" className="buy">
+        <a href="/" className="buy">
           {" "}
           Buy Now{" "}
         </a>
@@ -45,6 +47,7 @@ export default function App() {
         <img
           src="http://pngimg.com/uploads/running_shoes/running_shoes_PNG5816.png"
           className="product"
+          alt="no se encontro"
         />
       </Tilt>
       
